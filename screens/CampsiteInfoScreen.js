@@ -5,4 +5,5 @@ const CampsiteInfoScreen = ({ route }) => {
     return <RenderCampsite campsite={campsite} />;
 };
 
+
 export default CampsiteInfoScreen;
